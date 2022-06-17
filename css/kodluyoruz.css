@@ -3,13 +3,21 @@
 */
 
 body{
-    background-color: black;
+    background-color: orange;
     color: white;
     font-family: 'Roboto', sans-serif;
-    background-image: url("https://picsum.photos/id/237/1920/1080");
+    background-image: url("https://picsum.photos/id/237/600/200");
+    background-repeat:no-repeat;
+    margin:0px 0px 0px 0px;
+    height:250px;
+    background-position:center center;
+    
+
+    
+
 }
         h2 {
-            color:grey;
+            color:black;
             font-size: size 64px; 
             text-transform: uppercase;  
         }
